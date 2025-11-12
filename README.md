@@ -16,7 +16,7 @@ You can view and interact with the full, live dashboard here:
 
 **[https://public.tableau.com/app/profile/annamaria.benakova/viz/HousePriceAnalysisofKingCounty/Dashboard1](https://public.tableau.com/app/profile/annamaria.benakova/viz/HousePriceAnalysisofKingCounty/Dashboard1)**
 
-*(Optional: Add your dashboard screenshot here)*
+![House price dashboard screenshot](https://github.com/user-attachments/assets/eb73795b-f5f2-4c78-a7c0-5811cec51a18)
 
 ### Key Insights from the Dashboard:
 * **Location is Key:** The median house price in "Medina" (over $2.1M) is much higher than in other cities.
